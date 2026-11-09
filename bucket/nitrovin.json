@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/joshuasprow/nitrovin/releases/download/v0.1.0/nitrovin_0.1.0_windows_amd64.zip",
+            "bin": [
+                "nitrovin.exe"
+            ],
+            "hash": "aacee267781618ab681c5dc0c0e428e479e58ad3481922300816853e43267f04"
+        },
+        "arm64": {
+            "url": "https://github.com/joshuasprow/nitrovin/releases/download/v0.1.0/nitrovin_0.1.0_windows_arm64.zip",
+            "bin": [
+                "nitrovin.exe"
+            ],
+            "hash": "48f1fa28aa703dd8c0afcd775c11b78cdd3e79a788614a2619bc0dc3b6da55d9"
+        }
+    },
+    "homepage": "https://github.com/joshuasprow/nitrovin",
+    "license": "MIT",
+    "description": "Offline VIN decoder that answers like NHTSA's vPIC"
+}
