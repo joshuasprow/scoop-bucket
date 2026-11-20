@@ -1,19 +1,19 @@
 {
-    "version": "0.5.2",
+    "version": "0.5.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/joshuasprow/nitrovin/releases/download/v0.5.2/nitrovin_0.5.2_windows_amd64.zip",
+            "url": "https://github.com/joshuasprow/nitrovin/releases/download/v0.5.3/nitrovin_0.5.3_windows_amd64.zip",
             "bin": [
                 "nitrovin.exe"
             ],
-            "hash": "595d86cc6b13abd08bea57cc61a11e449fbbd101d9b516c321a61a347c8842c9"
+            "hash": "afc7a617e6b2e88d372a17bfa1164733010477475fbbb88b3c42c27df8220fd4"
         },
         "arm64": {
-            "url": "https://github.com/joshuasprow/nitrovin/releases/download/v0.5.2/nitrovin_0.5.2_windows_arm64.zip",
+            "url": "https://github.com/joshuasprow/nitrovin/releases/download/v0.5.3/nitrovin_0.5.3_windows_arm64.zip",
             "bin": [
                 "nitrovin.exe"
             ],
-            "hash": "fae614027966223db56154d263dcf71e0a1960a88e4dc5886ae7b3390152398b"
+            "hash": "8f048eb0ac4ba3febafd09e241263d43090e580955624d2a8bdcf7c5dda634bc"
         }
     },
     "homepage": "https://github.com/joshuasprow/nitrovin",
